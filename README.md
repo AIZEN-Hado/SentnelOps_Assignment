@@ -1,4 +1,4 @@
-# 🧪 SentnelOps Internship Assignment  
+# 🧪 SentnelOps Assignment  
 ## 🔍 AI/ML Reasoning + Anomaly Detection System
 
 <p align="center">
